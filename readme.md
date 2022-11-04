@@ -31,5 +31,5 @@ O Caleńdario da Copa é um projeto que simula os jogos da Copa de 2022.
 
 ## 🔖 Visualização
 
-Você pode visualizar o Projeto do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
+Você pode visualizar o Projeto do projeto através [DESSE LINK](https://claudioperes97.github.io/calendadrio-copa-2022).
 
