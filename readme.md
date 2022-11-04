@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <img alt="License" src=".github/preview.jpg">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="calendaio-copa" src="/home/claudio/portifolio/Captura de tela de 2022-11-04 11-27-40.png" width="100%">
+  <img alt="calendaio-copa" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
